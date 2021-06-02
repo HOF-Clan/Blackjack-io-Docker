@@ -1,5 +1,9 @@
 # Blackjack.io
 
+Fork From the Offitial Blackjack.Io App, just in a Docker-Container
+
+This Project is still WIP
+
 ![Screenshot](./assets/Blackjack-io-screenshot-1.png)
 ![Screenshot](./assets/Blackjack-io-screenshot-2.png)
 ![Screenshot](./assets/Blackjack-io-screenshot-3.png)
